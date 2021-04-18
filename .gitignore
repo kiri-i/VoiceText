@@ -1,0 +1,8 @@
+
+# 環境設定
+.venv/
+.vscode/
+.env
+
+# 出力フォルダ
+output/
